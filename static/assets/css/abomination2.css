@@ -1,0 +1,68 @@
+.txt_two:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    animation: abomination2 2s linear 1;
+    animation-fill-mode: forwards;
+    animation-delay: 2.6s;
+}
+
+@keyframes abomination2 {
+    0% {
+        content: "[Mac@Nagib]~# _";
+    }
+    5% {
+        content: "[Mac@Nagib]~# n_";
+    }
+    10% {
+        content: "[Mac@Nagib]~# na_";
+    }
+    15% {
+        content: "[Mac@Nagib]~# nan_";
+    }
+    20% {
+        content: "[Mac@Nagib]~# nano_";
+    }
+    25% {
+        content: "[Mac@Nagib]~# nano _";
+    }
+    30% {
+        content: "[Mac@Nagib]~# nano n_";
+    }
+    35% {
+        content: "[Mac@Nagib]~# nano _";
+    }
+    40% {
+        content: "[Mac@Nagib]~# nano N_";
+    }
+    45% {
+        content: "[Mac@Nagib]~# nano Na_";
+    }
+    50% {
+        content: "[Mac@Nagib]~# nano Nag_";
+    }
+    55% {
+        content: "[Mac@Nagib]~# nano Nagi_";
+    }
+    60% {
+        content: "[Mac@Nagib]~# nano Nagib_";
+    }
+    65% {
+        content: "[Mac@Nagib]~# nano Nagib._";
+    }
+    70% {
+        content: "[Mac@Nagib]~# nano Nagib.h_";
+    }
+    80% {
+        content: "[Mac@Nagib]~# nano Nagib.ht_";
+    }
+    85% {
+        content: "[Mac@Nagib]~# nano Nagib.htm_";
+    }
+    90% {
+        content: "[Mac@Nagib]~# nano Nagib.html_";
+    }
+    100% {
+        content: "[Mac@Nagib]~# nano Nagib.html";
+    }
+}

@@ -1,0 +1,32 @@
+.txt_four:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    animation: abomination4 0.5s linear 1;
+    animation-fill-mode: forwards;
+    animation-delay: 4.7s;
+}
+
+@keyframes abomination4 {
+    10% {
+        content: "[Mac@Nagib]~# _";
+    }
+    30% {
+        content: "[Mac@Nagib]~# l_";
+    }
+    50% {
+        content: "[Mac@Nagib]~# l _";
+    }
+    70% {
+        content: "[Mac@Nagib]~# l_";
+    }
+    90% {
+        content: "[Mac@Nagib]~# l_";
+    }
+    90% {
+        content: "[Mac@Nagib]~# ls_";
+    }
+    100% {
+        content: "[Mac@Nagib]~# ls";
+    }
+}

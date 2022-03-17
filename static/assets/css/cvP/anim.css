@@ -1,0 +1,182 @@
+.First_container {
+    box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px rgba(174, 174, 192, 0.4);
+    border-radius: 4%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    opacity: 0%;
+    animation: one_anim 1s ease-in-out 1;
+    animation-fill-mode: forwards;
+    animation-delay: 6.5s;
+}
+
+@keyframes one_anim {
+    0% {
+        filter: blur(0.1px);
+        transform: translateY(1%);
+    }
+    50% {
+        transform: translateY(-5px);
+        opacity: 100%;
+    }
+    100% {
+        opacity: 100%;
+        background: #ffffff;
+    }
+}
+
+.diplomes {
+    box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px rgba(174, 174, 192, 0.4);
+    border-radius: 4%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    opacity: 0%;
+    animation: dip_anim 1s ease-in-out 1;
+    animation-fill-mode: forwards;
+    animation-delay: 7.5s;
+}
+
+@keyframes dip_anim {
+    0% {
+        filter: blur(0.1px);
+        transform: translateY(1%);
+    }
+    50% {
+        transform: translateY(-5px);
+        opacity: 100%;
+    }
+    100% {
+        opacity: 100%;
+        background: #ffffff;
+    }
+}
+
+.competences {
+    box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px rgba(174, 174, 192, 0.4);
+    border-radius: 4%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    opacity: 0%;
+    animation: compt_anim 1s ease-in-out 1;
+    animation-fill-mode: forwards;
+    animation-delay: 8.5s;
+}
+
+@keyframes compt_anim {
+    0% {
+        filter: blur(0.1px);
+        transform: translateY(1%);
+    }
+    50% {
+        transform: translateY(-5px);
+        opacity: 100%;
+    }
+    100% {
+        opacity: 100%;
+        background: #ffffff;
+    }
+}
+
+.exp_pro {
+    box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px rgba(174, 174, 192, 0.4);
+    border-radius: 4%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    opacity: 0%;
+    animation: exp_anim 1s ease-in-out 1;
+    animation-fill-mode: forwards;
+    animation-delay: 9.5s;
+}
+
+@keyframes exp_anim {
+    0% {
+        filter: blur(0.1px);
+        transform: translateY(1%);
+    }
+    50% {
+        transform: translateY(-5px);
+        opacity: 100%;
+    }
+    100% {
+        opacity: 100%;
+        background: #ffffff;
+    }
+}
+
+.lg {
+    box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px rgba(174, 174, 192, 0.4);
+    border-radius: 4%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-bottom: 1%;
+    opacity: 0%;
+    animation: lg_anim 1s ease-in-out 1;
+    animation-fill-mode: forwards;
+    animation-delay: 10.5s;
+}
+
+@keyframes lg_anim {
+    0% {
+        filter: blur(0.1px);
+        transform: translateY(1%);
+    }
+    50% {
+        transform: translateY(-5px);
+        opacity: 100%;
+    }
+    100% {
+        opacity: 100%;
+        background: #ffffff;
+    }
+}
+
+.centre_interets {
+    box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px rgba(174, 174, 192, 0.4);
+    border-radius: 4%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    opacity: 0%;
+    animation: centre_anim 1s ease-in-out 1;
+    animation-fill-mode: forwards;
+    animation-delay: 11.5s;
+}
+
+@keyframes centre_anim {
+    0% {
+        filter: blur(0.1px);
+        transform: translateY(1%);
+    }
+    50% {
+        transform: translateY(-5px);
+        opacity: 100%;
+    }
+    100% {
+        opacity: 100%;
+        background: #ffffff;
+    }
+}
+
+.voyages {
+    box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px rgba(174, 174, 192, 0.4);
+    border-radius: 4%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    opacity: 0%;
+    animation: voyage_anim 1s ease-in-out 1;
+    animation-fill-mode: forwards;
+    animation-delay: 12.5s;
+}
+
+@keyframes voyage_anim {
+    0% {
+        filter: blur(0.1px);
+        transform: translateY(1%);
+    }
+    50% {
+        transform: translateY(-5px);
+        opacity: 100%;
+    }
+    100% {
+        opacity: 100%;
+        background: #ffffff;
+    }
+}

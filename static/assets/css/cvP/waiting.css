@@ -1,0 +1,52 @@
+.load:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    animation: abominationWAIT 10s linear 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes abominationWAIT {
+    0% {
+        content: "W";
+    }
+    5% {
+        content: "Wa";
+    }
+    10% {
+        content: "Wai";
+    }
+    15% {
+        content: "Wait ";
+    }
+    20% {
+        content: "Wait .";
+    }
+    25% {
+        content: "Wait ..";
+    }
+    30% {
+        content: "Wait ...";
+    }
+    35% {
+        content: "Wait ..";
+    }
+    40% {
+        content: "Wait .";
+    }
+    45% {
+        content: "Wait";
+    }
+    50% {
+        content: "Wai";
+    }
+    55% {
+        content: "Wa";
+    }
+    60% {
+        content: "W";
+    }
+    65% {
+        content: "";
+    }
+}

@@ -1,0 +1,113 @@
+    body {
+        background-color: #E5E5E5;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .container_terminal {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10%;
+        width: 65em;
+        height: 33em;
+    }
+    
+    .container_background_terminal {
+        background-color: #F0F0F3;
+        margin-left: auto;
+        margin-right: auto;
+        width: 53em;
+        border-radius: 0.5em;
+        box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px rgba(174, 174, 192, 0.4);
+    }
+    
+    .container_header_terminal {
+        background-color: white;
+        width: 53em;
+        height: 2em;
+        border-top-left-radius: 0.5em;
+        border-top-right-radius: 0.5em;
+    }
+    /*TEXT Terminal*/
+    
+    .text_on_terminal {
+        margin-top: 9px;
+        margin-left: 6px;
+        color: #5D656B;
+        position: relative;
+    }
+    
+    .information_static {
+        font-size: 140%;
+        line-height: 140%;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    
+    .text_on_terminal pre {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 140%;
+        line-height: 140%;
+        margin-left: 5px;
+        margin-top: 0px;
+        margin-bottom: -71px;
+    }
+    
+    .input_static {
+        margin-top: 8.8em;
+        font-size: 140%;
+        line-height: 140%;
+    }
+    /*END TEST Terminal*/
+    /*Button terminal*/
+    
+    .container_button {
+        display: flex;
+    }
+    
+    .container_border_button_rouge {
+        background-color: #FE5F57;
+        padding-top: 6px;
+        padding-left: 6px;
+        width: 6px;
+        height: 6px;
+        margin-top: 10px;
+        margin-left: 10px;
+        border-radius: 1em;
+    }
+    
+    .container_border_button_orange {
+        background-color: #FDBC2E;
+        padding-top: 6px;
+        padding-left: 6px;
+        width: 6px;
+        height: 6px;
+        margin-top: 10px;
+        margin-left: 10px;
+        border-radius: 1em;
+    }
+    
+    .container_border_button_vert {
+        background-color: #27C940;
+        padding-top: 6px;
+        padding-left: 6px;
+        width: 6px;
+        height: 6px;
+        margin-top: 10px;
+        margin-left: 10px;
+        border-radius: 1em;
+    }
+    
+    .container_button img {
+        margin-left: 319px;
+        margin-top: 4px;
+        height: 3%;
+        width: 2%;
+    }
+    
+    .container_button p {
+        margin-top: 9px;
+        margin-left: 6px;
+        color: #9197A2;
+    }
+    /*End button terminal*/

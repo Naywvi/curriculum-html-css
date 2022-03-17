@@ -1,0 +1,14 @@
+.txt_five {
+    opacity: 0%;
+    width: 100%;
+    height: 100%;
+    animation: abomination5 0.01s linear 1;
+    animation-fill-mode: forwards;
+    animation-delay: 5.3s;
+}
+
+@keyframes abomination5 {
+    100% {
+        opacity: 100%;
+    }
+}

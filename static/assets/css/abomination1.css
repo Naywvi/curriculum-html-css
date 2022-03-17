@@ -1,0 +1,96 @@
+.txt_one {}
+
+.txt_one:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    animation: abomination1 2.5s linear 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes abomination1 {
+    0% {
+        content: "[Mac@Nagib]~# _";
+    }
+    2% {
+        content: "[Mac@Nagib]~# t_";
+    }
+    4% {
+        content: "[Mac@Nagib]~# to_";
+    }
+    8% {
+        content: "[Mac@Nagib]~# tou_";
+    }
+    12% {
+        content: "[Mac@Nagib]~# touc_ ";
+    }
+    16% {
+        content: "[Mac@Nagib]~# touch_";
+    }
+    18% {
+        content: "[Mac@Nagib]~# touch_";
+    }
+    20% {
+        content: "[Mac@Nagib]~# touch _";
+    }
+    21% {
+        content: "[Mac@Nagib]~# touch C_";
+    }
+    24% {
+        content: "[Mac@Nagib]~# touch Cv_";
+    }
+    28% {
+        content: "[Mac@Nagib]~# touch Cv__";
+    }
+    32% {
+        content: "[Mac@Nagib]~# touch Cv_n_";
+    }
+    33% {
+        content: "[Mac@Nagib]~# touch Cv__";
+    }
+    36% {
+        content: "[Mac@Nagib]~# touch Cv_N_";
+    }
+    40% {
+        content: "[Mac@Nagib]~# touch Cv_Na_";
+    }
+    44% {
+        content: "[Mac@Nagib]~# touch Cv_Nag_";
+    }
+    48% {
+        content: "[Mac@Nagib]~# touch Cv_Nagi_";
+    }
+    52% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib_";
+    }
+    56% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib._";
+    }
+    60% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib.h_";
+    }
+    64% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib.ht_";
+    }
+    68% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib.htl_";
+    }
+    72% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib.htlm_";
+    }
+    76% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib.htl_";
+    }
+    80% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib.ht_";
+    }
+    84% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib.htm_";
+    }
+    90% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib.html_";
+    }
+    100% {
+        content: "[Mac@Nagib]~# touch Cv_Nagib.html";
+    }
+}

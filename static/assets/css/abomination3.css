@@ -1,0 +1,14 @@
+.txt_three:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    animation: abomination3 0.1s linear 1;
+    animation-fill-mode: forwards;
+    animation-delay: 4.7s;
+}
+
+@keyframes abomination3 {
+    100% {
+        content: "^Csignal: interrupt";
+    }
+}

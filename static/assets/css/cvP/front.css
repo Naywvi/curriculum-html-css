@@ -1,0 +1,213 @@
+body {
+    Font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    background-color: #E5E5E5;
+}
+
+.loaddiv {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20%;
+    font-size: 700%;
+    line-height: 0.1%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    position: absolute;
+}
+
+.image_profile {
+    width: 25%;
+}
+
+.Big_container {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.prenom {
+    font-size: 536%;
+    margin-left: 8%;
+}
+
+.First_container {
+    line-height: 0.1%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.prenom {
+    font-size: 150%;
+    margin-left: 0px;
+}
+
+
+/**/
+
+.Second_container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.diplomes {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 125%;
+}
+
+.diplomes h1 {
+    margin-bottom: 0px;
+    margin-top: 16px;
+}
+
+.competences {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 125%;
+}
+
+.competences h1 {
+    margin-bottom: 0px;
+    margin-top: 16px;
+}
+
+.exp_pro {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 125%;
+}
+
+.exp_pro h1 {
+    margin-bottom: 0px;
+    margin-top: 16px;
+}
+
+.lg {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 125%;
+}
+
+.lg p {
+    line-height: 33px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.centre_interets {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 125%;
+}
+
+.centre_interets h1 {
+    margin-bottom: 0px;
+    margin-top: 16px;
+}
+
+.voyages {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 125%;
+}
+
+.portugais:after {
+    content: " ";
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 178%;
+    background: #ffffff;
+    border-radius: 1em;
+}
+
+.circle_port {
+    height: 1em;
+    width: 4em;
+    margin-left: 133px;
+    margin-top: -25px;
+    background: #41bb30a3;
+    border-radius: 1em;
+}
+
+.circle_esp {
+    height: 1em;
+    width: 6em;
+    margin-left: 162px;
+    margin-top: -25px;
+    background: #41bb30a3;
+    border-radius: 1em;
+}
+
+.circle_anglais {
+    height: 1em;
+    width: 5em;
+    margin-left: 149px;
+    margin-top: -25px;
+    background: #41bb30a3;
+    border-radius: 1em;
+}
+
+.circle_arabe {
+    height: 1em;
+    width: 6.6em;
+    margin-left: 171px;
+    margin-top: -25px;
+    background: #41bb30a3;
+    border-radius: 1em;
+}
+
+.esp::after {
+    margin-left: 1px;
+    content: " ";
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 178%;
+    background: #ffffff;
+    border-radius: 1em;
+}
+
+.anglais::after {
+    content: " ";
+    margin-left: 11px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 178%;
+    background: #ffffff;
+    border-radius: 1em;
+}
+
+.arabe::after {
+    margin-left: 21px;
+    content: " ";
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 178%;
+    background: #ffffff;
+    border-radius: 1em;
+}
+
+.title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Big_container h1 {
+    font-size: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
